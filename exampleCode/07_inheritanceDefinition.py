@@ -4,7 +4,7 @@ class Mammal(object):
     """docstring for Mamal."""
 
     def is_a_mammal(self):
-        print('is a mammal')
+        print('yes, a mammal')
 
 class Whale(Mammal): # Pass class and getting inheritted
     """docstring for Whale."""
