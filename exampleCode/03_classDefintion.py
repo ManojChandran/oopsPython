@@ -9,6 +9,8 @@ class Shark(object):
 def main():
     fish = Shark()
     fish.swim()
+    # Print the additional attributes associated with Object
+    print(dir(fish))
 
 if __name__ == '__main__':
     main()

@@ -8,12 +8,12 @@ class Car(object):
         self.model = model
 
     # instance method defined
-    def insurancePeraunnum(self):
+    def insurancePerAunnum(self):
         print(self.model * 10)
 
 def main():
     commute = Car("Camry", 2011) # Object instatiation
-    commute.insurancePeraunnum() # Method call
+    commute.insurancePerAunnum() # Method call
 
 if __name__ == '__main__':
     main()
