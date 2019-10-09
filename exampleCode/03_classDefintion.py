@@ -1,4 +1,4 @@
-# defining a class oan creating an Object.
+# defining a class and creating an Object.
 # class Shark(object): == class Shark:
 class Shark(object):
     """docstring for Shark."""
