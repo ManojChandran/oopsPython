@@ -3,7 +3,6 @@ class ProductEncapsulation(object):
     """docstring ProdEncapsulation."""
 
     def __init__(self):
-        super().__init__()
         self.__productName = 't-shirt'
         self.__brandCode = '871628736777'
 
