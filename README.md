@@ -4,13 +4,10 @@
 
 1) Set up your environment 
 
-virtualenv - Tool to create isolated python environments 
-
-Separate Python interpreter and site-packages 
-
-Install virtualenv - sudo pip install virtualenv 
-
-Create a new virtual environment called venv :  
+           virtualenv - Tool to create isolated python environments 
+           Separate Python interpreter and site-packages 
+           Install virtualenv - sudo pip install virtualenv 
+           Create a new virtual environment called venv :  
 
 ```
 $ virtualenv venv 
@@ -53,7 +50,7 @@ $ pip freeze
 
 7) Need reasonable directory structure, unit tests, documentations 
 
-8)Distribute your project 
+8) Distribute your project 
 
 Use distutils or better setuptools 
 
