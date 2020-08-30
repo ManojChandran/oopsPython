@@ -1,6 +1,7 @@
 # Object Oriented Python
+This git repository is a collection of Sample python programs.
 
-# Python Set up
+# Python Environment and Set up
 
 #### Set up your environment 
 
